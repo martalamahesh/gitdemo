@@ -1,1 +1,6 @@
 nbvcx
+git status
+git add *
+ git commit -m "i made changes"
+git push origin master
+git clone https://github.com/martalamahesh/gitdemo.git "E:\git clone"
